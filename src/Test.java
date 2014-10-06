@@ -11,6 +11,6 @@ public class Test {
 	 * Feature
 	 */
 	public static void sayHello(){
-		System.out.println("Hello2");
+		System.out.println("Hello2");//Hello2
 	}
 }
