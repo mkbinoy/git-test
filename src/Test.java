@@ -14,5 +14,5 @@ public class Test {
 		System.out.println("Hello2");//Hello2
 	}
 	
-	// new
+	// new 2
 }
